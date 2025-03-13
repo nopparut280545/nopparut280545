@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Owen Nopparut!
 <div align="center">
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working.gif" alt="Developer coding" width="300" />
+</div>
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science student at **Nakhon Pathom Rajabhat University**
@@ -8,6 +9,7 @@
 - 💬 Ask me about anything related to JavaScript, React, or web development
 - 📩 Reach me anytime: [Nopparut2818@gmail.com](mailto:Nopparut2818@gmail.com)
 
+<div align="center">
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/📷%20INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/owxn_noppharut?igsh=ZnA4M2hndDFjNGlo)
 [![Facebook](https://img.shields.io/badge/📘%20FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nopparut.nootueng/)
