@@ -4,8 +4,8 @@
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working.gif" alt="Developer coding" width="300" />
   
   <div id="header">
-    <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)" width="100"/>
-  </div>
+    <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100"/>
+</div>
 </div>
 
 ## 👨‍💻 About Me
