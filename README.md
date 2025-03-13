@@ -2,7 +2,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working.gif" alt="Developer coding" width="300" />
 </div>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ## 👨‍💻 About Me
 - 🎓 Computer Science student at **Nakhon Pathom Rajabhat University**
 - ❤️ Determined to work honestly and punctually
